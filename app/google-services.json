@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171131178860",
+    "firebase_url": "https://doitmvp.firebaseio.com",
+    "project_id": "doitmvp",
+    "storage_bucket": "doitmvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171131178860:android:c9811bb532dc66f5c3ed49",
+        "android_client_info": {
+          "package_name": "lathigara.harsh.chatappmvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171131178860-h2bj4uu9h2569qvoa19s6qm30mp52hjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lathigara.harsh.chatappmvp",
+            "certificate_hash": "3c78aa09607ab59b138437f208ed8b5d2dbb9fd2"
+          }
+        },
+        {
+          "client_id": "171131178860-nn9hi5hr8u90f8300eerk60jvscmkddl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr4iWWLzcPFKuLrMqQKUPKADYA4AcBrxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171131178860-nn9hi5hr8u90f8300eerk60jvscmkddl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

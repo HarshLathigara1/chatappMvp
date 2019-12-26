@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chatappMvp</string>
+    <string name="chats">chats</string>
+    <string name="friends">friends</string>
+    <string name="request">request</string>
+    <string name="accountSettings">account</string>
+    <string name="logout">logout</string>
+</resources>
